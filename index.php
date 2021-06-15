@@ -256,7 +256,7 @@ body {
         </div>
       </div>
       <div class="carousel-item">
-        <img src="img/rahul3.jpg" class="d-block w-100" alt="..." style="height: 500px;">
+        <img src="img/img4.jpeg" class="d-block w-100" alt="..." style="height: 500px;">
         <div class="carousel-caption d-none d-md-block">
           <h5>Blood Donation</h5>
           <p>Your little effort can give some one other chance to live life</p>
