@@ -63,7 +63,7 @@
 <br>
                         <div>
                             <p style="color:white">
-                             Already a member? <a href="Regsiter1.php">Sign Up</a>
+                             Already a member? <a href="regsiter1.php">Sign Up</a>
                              </p>
                         </div>
                       
